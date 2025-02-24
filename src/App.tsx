@@ -111,14 +111,6 @@ function App() {
       </div>
     ),
 
-    pointbreak: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
     mrbeast: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
@@ -143,27 +135,11 @@ function App() {
         </p>
       </div>
     ),
-    trucker: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/gojokaka.png
-        </p>
-      </div>
-    ),
     mimba: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
         https://raw.githubusercontent.com/isg32/techhunt2025/main/images/jaagteraho.png
-        </p>
-      </div>
-    ),
-    ilikesmellingfurryfeet: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/laalroop.png
         </p>
       </div>
     ),
@@ -199,14 +175,6 @@ function App() {
         </p>
       </div>
     ),
-    farmboyornegro: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/vastu.png
-        </p>
-      </div>
-    ),
     jupiterisbetterthanactiva: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
@@ -225,72 +193,6 @@ function App() {
     ),
 
     // DONE
-    
-    sheleftmeonread: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-    passportbros: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-    nowondertheycallyouanalcoholic: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-    petroliswhatismoke: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-    flatchestersareevencrazier: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-    panzer: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-    seaways: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-    hesoyam: () => (
-      <div className="text-green-400">
-        <p>Image to your steganography'd image:</p>
-        <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
-        </p>
-      </div>
-    ),
-
 
     clear: () => {
       setHistory([]);
