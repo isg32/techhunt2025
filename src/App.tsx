@@ -21,10 +21,12 @@ function App() {
           <li>• rules - View competition rules</li>
           <li>• about - Learn about Tech Hunt</li>
           <li>• schedule - View event schedule</li>
+          <li>• stain - Returns how to get images for steganography</li>
           <li>• clear - Clear terminal</li>
         </ul>
       </div>
     ),
+    
     about: () => (
       <div className="text-green-400">
         <p>Debug And Discover - The Ultimate Technical Treasure Hunt</p>
@@ -41,6 +43,7 @@ function App() {
         </p>
       </div>
     ),
+
     findme: () => (
       <div className="text-green-400">
         <p>AS YOU CAN SEE, HERE IS THE TOOLS YOU NEED</p>
@@ -53,6 +56,7 @@ function App() {
         </p>
       </div>
     ),
+
     rules: () => (
       <div className="text-green-400">
         <p>Competition Rules:</p>
@@ -66,6 +70,7 @@ function App() {
         </ul>
       </div>
     ),
+
     register: () => (
       <div className="text-green-400">
         <p>Registration Information:</p>
@@ -79,6 +84,7 @@ function App() {
         </p>
       </div>
     ),
+
     schedule: () => (
       <div className="text-green-400">
         <p>Event Schedule:</p>
@@ -90,6 +96,197 @@ function App() {
           10:30 - Event Starts
           <br />
           16:00 - Event Ends
+        </p>
+      </div>
+    ),
+    
+    stain: () => (
+      <div className="text-green-400">
+      <p>Enter '[GivenCode]' to fetch your image
+        <br /> <br />
+        Note: Make sure the image does not get processed through any medium such as 
+        <br />
+        telegram or whatsapp - which will cause issue in decoding.
+      </p>
+      </div>
+    ),
+
+    pointbreak: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    mrbeast: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/cargos.png
+        </p>
+      </div>
+    ),
+    brokeboy32: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/corridor.png
+        </p>
+      </div>
+    ),
+    shedidntlaugh: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/firstfloor.png
+        </p>
+      </div>
+    ),
+    trucker: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/gojokaka.png
+        </p>
+      </div>
+    ),
+    mimba: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/jaagteraho.png
+        </p>
+      </div>
+    ),
+    ilikesmellingfurryfeet: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/laalroop.png
+        </p>
+      </div>
+    ),
+    speedwagonwasthebest: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/mudrit.png
+        </p>
+      </div>
+    ),
+    amongus: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/pointbreak.png
+        </p>
+      </div>
+    ),
+    ilikegettingtouchedbyolderwomen: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/shewontcumback.png
+        </p>
+      </div>
+    ),
+    idatebrunettes: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/tightmoonlight.png
+        </p>
+      </div>
+    ),
+    farmboyornegro: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/vastu.png
+        </p>
+      </div>
+    ),
+    jupiterisbetterthanactiva: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/visa.png
+        </p>
+      </div>
+    ),
+    whatislovebabydonthurtme: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/zepplin.png
+        </p>
+      </div>
+    ),
+
+    // DONE
+    
+    sheleftmeonread: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    passportbros: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    nowondertheycallyouanalcoholic: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    petroliswhatismoke: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    flatchestersareevencrazier: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    panzer: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    seaways: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
+        </p>
+      </div>
+    ),
+    hesoyam: () => (
+      <div className="text-green-400">
+        <p>Image to your steganography'd image:</p>
+        <p className="mt-2">
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/badtouch.png
         </p>
       </div>
     ),
