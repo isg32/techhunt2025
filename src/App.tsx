@@ -115,7 +115,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/cargos.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/gateway.png
         </p>
       </div>
     ),
@@ -123,7 +123,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/corridor.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/lamp.png
         </p>
       </div>
     ),
@@ -131,7 +131,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/firstfloor.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/yulong.png
         </p>
       </div>
     ),
@@ -139,7 +139,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/jaagteraho.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/boner.png
         </p>
       </div>
     ),
@@ -147,7 +147,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/mudrit.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/jio.png
         </p>
       </div>
     ),
@@ -155,7 +155,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/pointbreak.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/commonguest.png
         </p>
       </div>
     ),
@@ -163,7 +163,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/shewontcumback.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/silentwhispers.png
         </p>
       </div>
     ),
@@ -171,7 +171,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/tightmoonlight.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/12aunties.png
         </p>
       </div>
     ),
@@ -179,7 +179,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/visa.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/gloryhole.png
         </p>
       </div>
     ),
@@ -187,7 +187,7 @@ function App() {
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
-        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/zepplin.png
+        https://raw.githubusercontent.com/isg32/techhunt2025/main/images/laalr.png
         </p>
       </div>
     ),
