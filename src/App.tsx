@@ -111,7 +111,7 @@ function App() {
       </div>
     ),
 
-    mrbeast: () => (
+    player01: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -119,7 +119,7 @@ function App() {
         </p>
       </div>
     ),
-    brokeboy32: () => (
+    montecarlo: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -127,7 +127,7 @@ function App() {
         </p>
       </div>
     ),
-    shedidntlaugh: () => (
+    speedwagon: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -135,7 +135,7 @@ function App() {
         </p>
       </div>
     ),
-    mimba: () => (
+    batman: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -143,7 +143,7 @@ function App() {
         </p>
       </div>
     ),
-    speedwagonwasthebest: () => (
+    pointbreak: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -151,7 +151,7 @@ function App() {
         </p>
       </div>
     ),
-    amongus: () => (
+    pinknoise: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -159,7 +159,7 @@ function App() {
         </p>
       </div>
     ),
-    ilikegettingtouchedbyolderwomen: () => (
+    deepdive: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -167,7 +167,7 @@ function App() {
         </p>
       </div>
     ),
-    idatebrunettes: () => (
+    trashee: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -175,7 +175,7 @@ function App() {
         </p>
       </div>
     ),
-    jupiterisbetterthanactiva: () => (
+    sprouts: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
@@ -183,7 +183,7 @@ function App() {
         </p>
       </div>
     ),
-    whatislovebabydonthurtme: () => (
+    gunsoverroses: () => (
       <div className="text-green-400">
         <p>Image to your steganography'd image:</p>
         <p className="mt-2">
